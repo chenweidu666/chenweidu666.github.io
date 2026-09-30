@@ -1,7 +1,7 @@
 baseURL = "http://192.168.3.114:8080/"
 locale = "zh-cn"
 defaultContentLanguage = "zh"
-title = "陈威的博客"
+title = "ChenWei 的博客"
 theme = "PaperMod"
 
 enableRobotsTXT = true
@@ -12,7 +12,7 @@ paginate = 10
 [params]
   env = "production"
   description = "技术笔记 / 工程实践 / 学习记录"
-  author = "陈威"
+  author = "ChenWei"
   DateFormat = "2006-01-02"
   defaultTheme = "auto"
   ShowReadingTime = true
@@ -27,7 +27,7 @@ paginate = 10
   comments = false
 
   [params.homeInfoParams]
-    Title = "你好，我是陈威 👋"
+    Title = "你好，我是 ChenWei 👋"
     Content = "这里记录我的技术笔记、工程实践与学习心得。"
 
   [[params.socialIcons]]
