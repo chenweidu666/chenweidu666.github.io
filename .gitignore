@@ -1,0 +1,15 @@
+# Hugo 构建产物
+public/
+resources/_gen/
+
+# Hugo 缓存
+.hugo_build.lock
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# 本地部署运行数据
+run/

@@ -1,0 +1,13 @@
+[Unit]
+Description=Blog (Hugo static site) on :8080
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/chenwei/Workspace/97-TDPC/04
+ExecStart=/home/chenwei/Workspace/97-TDPC/04/scripts/serve-local.sh
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=default.target
