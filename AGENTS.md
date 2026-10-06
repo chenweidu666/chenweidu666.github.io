@@ -1,7 +1,7 @@
-# 04-Blog — Agent 入口
+# 04-PersonalBlog — Agent 入口
 
 > 最后更新: 2026-09-30
-> 本地根: `/home/chenwei/Workspace/97-TDPC/04`
+> 本地根: `/home/chenwei/Workspace/97-TDPC/04-PersonalBlog`
 > 定位: 个人博客（技术笔记 / 工程实践 / 学习记录），Hugo 静态站
 
 ## 关键事实
